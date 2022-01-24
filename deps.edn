@@ -1,0 +1,10 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        ;; hiccup (Clojure domain-specific language for generating HTML in Clojure)
+        hiccup/hiccup       {:mvn/version "2.0.0-alpha2"}
+        ;; compojure (Basic routing library)
+        compojure/compojure {:mvn/version "1.6.2"}
+        ;; http-kit (Http library for client/server)
+        http-kit/http-kit   {:mvn/version "2.5.3"}
+        ;; ring (Web application library for working with cookies, query params and etc..)
+        ring/ring-defaults {:mvn/version "0.3.3"}
+        }}
